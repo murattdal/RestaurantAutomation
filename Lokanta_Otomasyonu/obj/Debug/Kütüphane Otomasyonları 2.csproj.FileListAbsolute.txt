@@ -1,0 +1,77 @@
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csprojAssemblyReference.cache
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Properties.Resources.resources
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.GenerateResource.cache
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.CoreCompileInputs.cache
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe.config
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.exe
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Form1.resources
+C:\Derleyiciler\Visual Studio Nesne Örnekleri\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Form2.resources
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csprojAssemblyReference.cache
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.form1.resources
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Form2.resources
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Properties.Resources.resources
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.GenerateResource.cache
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.CoreCompileInputs.cache
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe.config
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\MURAT DAL\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe.config
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csprojAssemblyReference.cache
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.form1.resources
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Form2.resources
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Properties.Resources.resources
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.GenerateResource.cache
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.CoreCompileInputs.cache
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\M. Serkan Çetinkaya\Downloads\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe.config
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csprojAssemblyReference.cache
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.form1.resources
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Form2.resources
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Properties.Resources.resources
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.GenerateResource.cache
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.CoreCompileInputs.cache
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\M. Serkan Çetinkaya\Desktop\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe.config
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csprojAssemblyReference.cache
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.form1.resources
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Form2.resources
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Properties.Resources.resources
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.GenerateResource.cache
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.CoreCompileInputs.cache
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\M. Serkan Çetinkaya\Desktop\YanarDönerLokanta\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe.config
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csprojAssemblyReference.cache
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.form1.resources
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Form2.resources
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Properties.Resources.resources
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.GenerateResource.cache
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.CoreCompileInputs.cache
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\M. Serkan Çetinkaya\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe.config
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\bin\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csprojAssemblyReference.cache
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.form1.resources
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Form2.resources
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane_Otomasyonları_2.Properties.Resources.resources
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.GenerateResource.cache
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.csproj.CoreCompileInputs.cache
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\MURAT DAL\Desktop\Lokanta Otomasyonu\Kütüphane Otomasyonları 2\Kütüphane Otomasyonları 2\obj\Debug\Kütüphane Otomasyonları 2.pdb

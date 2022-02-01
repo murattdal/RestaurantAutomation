@@ -1,0 +1,22 @@
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.form1.resources
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.Form2.resources
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Kütüphane_Otomasyonları_2.Properties.Resources.resources
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Kütüphane Otomasyonları 2.pdb
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\bin\Debug\Kütüphane Otomasyonları 2.exe.config
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\bin\Debug\Kütüphane Otomasyonları 2.exe
+C:\Users\MURAT DAL\Desktop\Lokanta_Otomasyonu\Lokanta_Otomasyonu\bin\Debug\Kütüphane Otomasyonları 2.pdb
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\bin\Debug\Kütüphane Otomasyonları 2.exe.config
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\bin\Debug\Kütüphane Otomasyonları 2.exe
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\bin\Debug\Kütüphane Otomasyonları 2.pdb
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.csproj.AssemblyReference.cache
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.form1.resources
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.Form2.resources
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Kütüphane_Otomasyonları_2.Properties.Resources.resources
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.csproj.GenerateResource.cache
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Kütüphane Otomasyonları 2.exe
+D:\Üniversite\DİĞER\Lokanta_Otomasyonu\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Kütüphane Otomasyonları 2.pdb
